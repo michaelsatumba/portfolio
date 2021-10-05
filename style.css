@@ -18,6 +18,7 @@ h2 {
   font-size: 150%;
   color: #66BFBF;
   font-weight: normal;
+  padding: 5px;
 }
 
 h3 {
@@ -113,6 +114,10 @@ hr {
   color: #194350;
   font-size: 85%;
   padding: 20px 0;
+}
+
+ .card {
+  margin: 10px;
 }
 
 
