@@ -1,34 +1,39 @@
 body {
   margin: 0;
   text-align: center;
-  font-family: 'Baloo Tammudu 2', cursive;
-  color: #40514E;
 }
 
 h1 {
   font-size: 500%;
   margin: 50px auto 0 auto;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Avenir-medium';
   color: #66BFBF;
-  font-weight: bolder;
 }
 
 h2 {
-  font-family: 'Baloo Tammudu 2', cursive;
+  font-family: 'Avenir-heavy';
   font-size: 150%;
   color: #66BFBF;
-  font-weight: normal;
   padding: 5px;
 }
 
 h3 {
   color: #11999E;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Avenir-medium';
+}
+
+h5 {
+  font-family: 'Avenir-medium';
+}
+
+p {
+  font-family: 'Avenir-light';
 }
 
 a {
   color: #11999E;
   text-decoration: none;
+  font-family: 'Avenir-light';
 }
 
 a:hover {
@@ -79,6 +84,8 @@ hr {
 
 .pic {
   width: 200px;
+  height: 200px;
+  border-radius: 1000%;
 }
 
 .pic2 {
